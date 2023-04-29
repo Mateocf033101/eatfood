@@ -1,0 +1,17 @@
+export default {
+  PLATE: require("../assets/images/logo_app.png"),
+  DISCOVER: require("../assets/images/img1.jpg"),
+  DELIVER: require("../assets/images/img2.png"),
+  FAVORITE: require("../assets/images/img3.jpg"),
+  FACEBOOK: require("../assets/images/facebook_icon.png"),
+  GOOGLE: require("../assets/images/google_icon.png"),
+  EYE: require("../assets/images/eye_icon.png"),
+  ARROW: require("../assets/images/arrow_icon.png"),
+  LOADING: require("../assets/images/loading.json"),
+  FRIED_CHICKEN: require("../assets/images/fried_chicken.png"),
+  BURGER: require("../assets/images/burger.png"),
+  PIZZA: require("../assets/images/pizza.png"),
+  DESSERT: require("../assets/images/dessert.png"),
+  NOODLES: require("../assets/images/noodles.png"),
+  DRINKS: require("../assets/images/drinks.png"),
+};
